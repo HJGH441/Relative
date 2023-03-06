@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="programas">
+        <item>JOJOs</item>
+        <item>Jujutsu Kaisen</item>
+        <item>My hero Academia</item>
+    </string-array>
+</resources>
